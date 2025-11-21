@@ -1,6 +1,6 @@
 # Web
 Apuntes sobre diseño web front-end
 
-Prof. Raúl Jesús López
+ING.Angel daniel hernandez santiago 
 
-Buenos Aires, Argentina
+juarez,nuevo leon
